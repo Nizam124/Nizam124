@@ -118,5 +118,5 @@ press 1 and 0 to exit \n")
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n
+            sys.exit(" .\n .\n .\n
             #print(numbers)
