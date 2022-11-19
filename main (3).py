@@ -24,8 +24,8 @@ def hero():
         done = False
         #here is the animation
         def animate():
-            for c in itertools.cycle(['|', 
-'/', '-', '\\']):
+            for c in itertools.cycle(['|','/', '-', '\\']):
+
                 if done:
                     break
                 sys.stdout.write('\rhacking in the winzO.mobi server for next colour--------- ' + c)
